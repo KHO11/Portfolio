@@ -4,3 +4,5 @@ A portfolio about me and my experiences so far as a software developer. A way of
 I was focused on making the design on my portfolio to look very good and appealing so I decided to use elementor on wordpress to customize the portfolio website.
 
 # Deployment
+
+https://kho11.github.io/Portfolio/
