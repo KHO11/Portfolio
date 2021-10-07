@@ -13,4 +13,4 @@ When people enter details in the contact list, after the send button is clicked 
 
 # Deployment
 
-https://kho11portfolio.netlify.app/
+https://kho11.github.io/Portfolio/
